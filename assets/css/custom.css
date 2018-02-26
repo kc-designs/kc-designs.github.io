@@ -1,0 +1,81 @@
+body {
+    background-color: #fff;
+}
+
+#banner h1 {
+    margin-bottom: 0px;
+}
+
+.subtitle {
+    text-transform: none;
+    padding-bottom: 20px;
+}
+
+#one {
+    
+    text-align: center;
+}
+
+#two {
+    background-color: #fff;
+}
+
+#two h2 {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+#two h2 span {
+    border-bottom:2px solid
+}
+
+#one img {
+    padding:0px;
+    width:auto;
+    height:400px
+}
+
+#three h2 {
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top:20px
+}
+
+#three h2 span {
+    border-bottom:2px solid
+}
+
+.my-button {
+    font-size:24px;
+    padding:0px 80px 0px 80px
+}
+
+#footer {
+    background-color: #000;
+    color:#fff
+}
+
+.bold {
+    font-weight:bold;
+    line-height:1.3em;
+}
+
+.website-title {
+    text-align: center;
+    color:#000
+}
+
+.kc-list {
+    margin-top:-25px;
+    padding-left:50px;
+}
+
+.logo-cont {
+    height:100%;
+    max-height: 100%;
+}
+.kc-logo {
+    height:100%;
+    max-height: 100%;
+    width:auto; 
+}
