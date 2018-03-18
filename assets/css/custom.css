@@ -79,9 +79,10 @@ body {
     max-height: 100%;
 }
 .kc-logo {
-    height:100%;
-    max-height: 100%;
+    height:90%;
+    max-height: 90%;
     width:auto; 
+    margin-top:5px
 }
 
 #main .responsive-pic {
