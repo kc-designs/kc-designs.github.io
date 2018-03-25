@@ -93,3 +93,30 @@ body {
 #one .bigger-text {
     font-size:26px
 }
+
+.services-stuff {
+    text-align: center;
+    background-color: #f3f3f3 !important;
+}
+
+.services-stuff p {
+    text-align: left;
+}
+
+.services-stuff .mockup {
+    width:200px;
+}
+
+.services-stuff .mac-mockup {
+    width:500px;
+}
+
+@media screen and (max-width: 980px) {
+    .services-stuff {
+        background-color: #000 !important; 
+    }
+    
+    .services-stuff p {
+        text-align: center;
+    }
+}
