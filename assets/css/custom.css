@@ -54,6 +54,15 @@ body {
     padding:0px 80px 0px 80px
 }
 
+@media screen and (max-width: 480px) {
+    
+    .my-button {
+        width:200px;
+        font-size:16px;
+        padding:0px 10px 0px 10px;
+    }
+}
+
 #footer {
     background-color: #000;
     color:#fff
@@ -122,5 +131,19 @@ body {
     
     .services-stuff p {
         text-align: center;
+    }
+}
+
+#custom-section h2 {
+    padding-bottom: 60px;
+}
+
+#custom-section span {
+    border-bottom:2px solid;
+}
+
+@media screen and (max-width: 980px) {
+    #custom-section {
+        padding-bottom:50px;
     }
 }
